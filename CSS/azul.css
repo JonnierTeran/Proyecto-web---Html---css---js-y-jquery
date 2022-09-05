@@ -1,0 +1,33 @@
+
+body{  /*  fondo de pagina*/
+    background: url(../MULTIMEDIA/fondoAzul.jpg);
+    background-attachment: fixed;
+}
+
+#global{  /* seccion contenedora */
+    
+    opacity: 85%;
+    
+
+}
+
+#logo{   /* logotipo de la pagina*/
+    
+    background: #1f87c4;
+   
+
+}
+
+
+#menu ul li:hover{ /* Accion para pasar sobre el menu*/
+    background: #1f87c4;
+
+}
+
+
+.button-more{
+    background: #1f87c4;
+}
+
+
+
